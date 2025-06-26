@@ -55,7 +55,7 @@ class LSFLSTSVMCIL(BaseTSVMClassifier):
       f2 = -(KxB.dot(lambda_) + KxA.dot(gamma_))/self.c4 + b2 
 
       for i in range(len(f1)):
-        if min(abs(f1[i]),abs(f2[i]))==abs(f1[i]): predicted.append(self.classes[0])
+        if min(abs(f1[i]),abs(f2[i])) == abs(f1[i]): predicted.append(self.classes[0])
         else                                     : predicted.append(self.classes[1])
     
     return predicted
@@ -111,7 +111,7 @@ class LSFLSTSVMCIL(BaseTSVMClassifier):
               v2 = self.u2[:-1]
               length = np.linalg.norm(v1) * np.linalg.norm(v2)
               
-              self.angle = 90 - acos((v1.T @ v2)/length)*180/pi 
+              self.angle = acos((v1.T @ v2)/length)*180/pi 
             
               eta1 = - S1 @ self.alpha[:m1]
               ssd1 = eta1 @ eta1
