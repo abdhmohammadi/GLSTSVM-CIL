@@ -1,7 +1,7 @@
 
 # GLSTSVM-CIL
 
-A novel **Gravitational Least Squares Twin Support Vector Machine based on Optimal Angle for Class Imbalance Learning in Large Scale Data**
+A novel **Gravitational Least Squares Twin Support Vector Machine based on Optimal Angle for Class Imbalance Learning**
 
 ## 🔍 Overview
 
