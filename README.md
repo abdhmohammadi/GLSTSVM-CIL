@@ -8,6 +8,12 @@ A novel **Gravitational Least Squares Twin Support Vector Machine based on Optim
 This repository contains the source code and experimental setup for the method proposed in our research paper:
 
 ***Data, code, and analysis will be fully uploaded after the article is completed and accepted.***
+
+Author: Abdullah Mohammadi<br>
+Supervisors: <br>
+    Dr. Sohrab Effati<br>
+    Dr. Jalal A. Nasiri<br>
+    *Department of Applied Mathematics, Faculty of Mathematical Sciences, Ferdowsi University of Mashhad, P. O. Box 1159, Mashhad 91775, Iran*
 <!--
 > **"An Angle-based Least Squares Generalized Weighted LSTSVM for Class Imbalance Learning"**  
 > Submitted to *Journal of Applied Mathematics and Computation*, 2025.
