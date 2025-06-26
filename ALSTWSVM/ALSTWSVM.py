@@ -98,9 +98,9 @@ class ALSTWSVM(BaseTSVMClassifier):
         print('                            Kernel:',self.kernel_name)
         print('              Kernel parameter(mu):',self.mu)
         print('                        Train size:',str(self.C.shape[0])+' \u00d7 '+str(self.C.shape[1]))
-        print('              Data reading time(s):',self.reading_time)
         print('                  Training time(s):',self.training_time)
-        print('                               SSE:',self.SSE)
+        print('                               SSD:',self.SSD)
+        print('                             Angle:',self.angle)
         print('---------------------------------------------------------------')
         
        
