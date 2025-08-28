@@ -1,14 +1,20 @@
+<div align="right">
+    
+![Views](https://views-counter.vercel.app/badge?pageId=abdhmohammadi%2FGLSTSVM-CIL&label=Views)   
+
+</div>
 
 # GLSTSVM-CIL
 
 A novel **Gravitational Least Squares Twin Support Vector Machine based on Optimal Angle for Class Imbalance Learning**
 
+_Submision: December 24, 2024, Revised: Jun 22, 2025, Accepted: Aug 26, 2025 in the Journal of Applied Mathematics and Computation_
 ## 🔍 Overview
 
 This repository contains the source code and experimental setup for the method proposed in our research paper:
 
-***Data, code, and analysis will be fully uploaded after the article is completed and accepted.***
-
+<!--***Data, code, and analysis will be fully uploaded after the article is completed and accepted.***
+-->
 Author: Abdullah Mohammadi<br>
 Supervisors: <br>
     Dr. Sohrab Effati<br>
