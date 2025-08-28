@@ -5,8 +5,7 @@
 </div>
 
 # GLSTSVM-CIL
-
-A novel **Gravitational Least Squares Twin Support Vector Machine based on Optimal Angle for Class Imbalance Learning**
+**G**ravitational **L**east **S**quares **T**win **S**upport **V**ector **M**achine based on Optimal Angle for **C**lass **I**mbalance **L**earning
 
 _Submision: December 24, 2024, Revised: Jun 22, 2025, Accepted: Aug 26, 2025 in the Journal of Applied Mathematics and Computation_
 ## 🔍 Overview
