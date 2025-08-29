@@ -8,6 +8,9 @@
 **G**ravitational **L**east **S**quares **T**win **S**upport **V**ector **M**achine based on Optimal Angle for **C**lass **I**mbalance **L**earning
 
 _Submision: December 24, 2024, Revised: Jun 22, 2025, Accepted: Aug 26, 2025 in the Journal of Applied Mathematics and Computation_
+
+**The link to the article will be available after publication by the publisher.**
+
 ## 🔍 Overview
 
 This repository contains the source code and experimental setup for the method proposed in our research paper:
