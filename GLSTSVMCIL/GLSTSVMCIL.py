@@ -12,7 +12,7 @@ from BaseTSVMClassifier import BaseTSVMClassifier
 
 class GLSTSVMCIL(BaseTSVMClassifier):
 
-    def __init__(self, g=1.0, c1=1.0, c2=1.0, c3=1.0, r=0.1, p=0.5, mu= 1.0, kernel_name ='rbf', 
+    def __init__(self, g=1.0, c1=1.0, c2=1.0, c3=1.0, r=0.1, mu= 1.0, kernel_name ='rbf', 
                  iteration=100, tolerance=1e-05, label_name=None,
                  compute_errors_and_angles = True) -> None:
         """
@@ -40,8 +40,6 @@ class GLSTSVMCIL(BaseTSVMClassifier):
         self.c3 = c3
         # radius to enumerate neighborhoods of each sample
         self.r  = r
-        # power of the distance in weight function(it may remove later)
-        self.p = p
         # iteration for cunjogate gradiant method
         self.iteration = iteration
         # telorance for cunjogate gradiant method
