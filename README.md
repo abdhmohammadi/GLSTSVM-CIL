@@ -52,6 +52,9 @@ Supervisors: <br>
 	<td align='center'><img src='https://github.com/abdhmohammadi/GLSTSVM-CIL/blob/main/images/Imbalance-rate-plotes.png' width='828' height='600'/></td>
 </tr>
 </table>
+
+#  Please give me a star ⭐ if this topic was helpful to you.
+
 <!--
 > **"An Angle-based Least Squares Generalized Weighted LSTSVM for Class Imbalance Learning"**  
 > Submitted to *Journal of Applied Mathematics and Computation*, 2025.
