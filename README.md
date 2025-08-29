@@ -19,6 +19,36 @@ Supervisors: <br>
     Dr. Sohrab Effati<br>
     Dr. Jalal A. Nasiri<br>
     *Department of Applied Mathematics, Faculty of Mathematical Sciences, Ferdowsi University of Mashhad, P. O. Box 1159, Mashhad 91775, Iran*
+---
+# Data
+> Using two-dimensional synthetic data, the position of hyperplanes and the performance of the method against changes in the imbalance ratio are evaluated
+
+> KEEL repositoy was used to evaluate the performance on imbalance and noisy datasets.
+
+> The data available in <a href="http://archive.ics.uci.edu/ml">UCI (Dua and Graff (2017))</a> and Kaggle repositories were used to evaluate medical applications.
+ 
+> Text data from UCI, Kaggle and <a href="http://www.cad.zju.edu.cn/home/dengcai/Data/TextData.html">TDT2</a> dataset (Cai (2024)) have been used to evaluate models in text data classification.
+
+> To evaluate Proposed Method’s performance on large datasets, the <a href="https://research.cs.wisc.edu/dmi/svm/ndc/"> NDC (Normal Distributed Clusters)</a> dataset Musicant (1998) was utilized.
+# Images
+<table align='center' border='1'>
+<tr>
+	<td align='center'><img src='https://github.com/abdhmohammadi/GLSTSVM-CIL/blob/main/images/gravity-presentation.png' width='400' height='300'/></td>
+    <td align='center'><img src='https://github.com/abdhmohammadi/GLSTSVM-CIL/blob/main/images/hyperplanes.png' width='400' height='300'/></td>
+</tr>
+</table>
+
+<table align='center' border='1'>
+<tr>
+	<td align='center'><img src='https://github.com/abdhmohammadi/GLSTSVM-CIL/blob/main/images/surface-c2-c3.png' width='828' height='300'/></td>
+</tr>
+</table>
+
+<table align='center' border='1'>
+<tr>
+	<td align='center'><img src='https://github.com/abdhmohammadi/GLSTSVM-CIL/blob/main/images/Imbalance-rate-plotes.png' width='828' height='600'/></td>
+</tr>
+</table>
 <!--
 > **"An Angle-based Least Squares Generalized Weighted LSTSVM for Class Imbalance Learning"**  
 > Submitted to *Journal of Applied Mathematics and Computation*, 2025.
