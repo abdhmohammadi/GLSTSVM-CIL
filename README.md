@@ -9,7 +9,7 @@
 
 _Submision: December 24, 2024, Revised: Jun 22, 2025, Accepted: Aug 26, 2025 in the Journal of Applied Mathematics and Computation_
 
-👉 Read the paper here: [Link](https://www.sciencedirect.com/science/article/abs/pii/S009630032500431X) 
+👉 Read the paper here: [GLSTSVM-CIL](https://www.sciencedirect.com/science/article/abs/pii/S009630032500431X) 
 
 ## 🔍 Overview
 
