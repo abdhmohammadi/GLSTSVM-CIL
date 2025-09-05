@@ -9,9 +9,9 @@
 
 _Submision: December 24, 2024, Revised: Jun 22, 2025, Accepted: Aug 26, 2025 in the Journal of Applied Mathematics and Computation_
 
-👉 Read the paper here: [GLSTSVM-CIL](https://www.sciencedirect.com/science/article/abs/pii/S009630032500431X) 
+👉 Read the paper here: [GLSTSVM-CIL](https://doi.org/10.1016/j.amc.2025.129705) 
 
-👉 Cite: A. Mohammadi, J. A. Nasiri, S. Effati, "Gravitational Least Squares Twin Support Vector Machine for Class Imbalance Learning (GLSTSVM-CIL)", _Applied Mathamtics and Computaion_ 510 (2026) 129705.
+👉 Cite: A. Mohammadi, J. A. Nasiri, S. Effati, "Gravitational Least Squares Twin Support Vector Machine for Class Imbalance Learning (GLSTSVM-CIL)", _Applied Mathamtics and Computaion_ 510 (2026) 129705. https://doi.org/10.1016/j.amc.2025.129705
 ## 🔍 Overview
 
 This repository contains the source code and experimental setup for the method proposed in our research paper:
