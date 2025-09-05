@@ -15,14 +15,14 @@ _Submision: December 24, 2024, Revised: Jun 22, 2025, Accepted: Aug 26, 2025 in 
 
 This repository contains the source code and experimental setup for the method proposed in our research paper:
 
-<!--***Data, code, and analysis will be fully uploaded after the article is completed and accepted.***
--->
 Author: Abdullah Mohammadi<br>
 Supervisors: <br>
     Dr. Sohrab Effati<br>
     Dr. Jalal A. Nasiri<br>
     *Department of Applied Mathematics, Faculty of Mathematical Sciences, Ferdowsi University of Mashhad, P. O. Box 1159, Mashhad 91775, Iran*
+
 ---
+
 # Data
 > Using two-dimensional synthetic data, the position of hyperplanes and the performance of the method against changes in the imbalance ratio are evaluated
 
